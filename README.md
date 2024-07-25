@@ -1,3 +1,2 @@
 # 42SPiscine
-
-Apostilas da 42SP
+Meus projetos da piscina 2024
